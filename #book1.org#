@@ -17,5 +17,10 @@
 
 * 事情分类
 ** TODO 关于模式
+   - State "STARTED"    from "WAITING"    [2013-12-25 Wed 16:56]
+   - State "WAITING"    from "TODO"       [2013-12-25 Wed 16:54] \\
+     今晚吃完饭回来跟这个问题
    - Note taken on [2013-12-25 Wed 16:53]
 <2013-12-25 Wed> adnrdoi的bug list
+
+
