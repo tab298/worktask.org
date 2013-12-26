@@ -1,0 +1,33 @@
+#+TITLE:     download.org
+#+AUTHOR:    luning
+#+EMAIL:     root@luning.workspace
+#+DATE:      2013-12-26 Thu
+#+DESCRIPTION: 服务器目录结构调整
+#+KEYWORDS:
+#+LANGUAGE:  cn
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+<2013-12-26 Thu>
+* 界面的存放调整
+  timetop.sh,tt_load,lib_hw.so,tt_gamehall存放与下载服务器。避免打开的服务会塞车。
+
+* 学习edu相关应用的存放路径跟界面才一致.
+  [[/root/notebook/company/lws/edujs.org]]
+
+
+
+
+
+
+* 
+
+
+
+

@@ -1,0 +1,38 @@
+//org的常用操作记录.
+* 插入时间
+  使用C-c C-s/C-d 加入时间点
+* 生成标题
+o  M-Enter 可以生成标题
+* 描点
+  [[]]
+* 添加附件
+  快捷键 C-c C-a 可以列出选项，其中a是添加文件系统中的文件来做为附件.
+
+
+
+
+
+  
+
+#+BEGIN_HTML
+<form method="get" action="http://www.baidu.com/">
+<input type="text" name="query">
+<input type="hidden" name="group" value="gmane.emacs.orgmode">
+<input type="submit" value="Search gmane.emacs.orgmode">
+</form>
+#+END_HTML
+
+#+BEGIN_HTML
+  <center>
+    <iframe src="https://www.google.com/calendar/embed?title=Eric%20Schulte&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=schulte.eric%40gmail.com&amp;color=%232952A3&amp;ctz=America%2FDenver"; style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </center>
+#+END_HTML
+
+
+
+
+
+
+
+
+
