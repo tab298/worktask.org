@@ -17,8 +17,33 @@
 
 * 事情分类
 ** TODO 关于模式
+   SCHEDULED: <2013-12-30 Mon>
    - State "STARTED"    from "WAITING"    [2013-12-25 Wed 16:56]
    - State "WAITING"    from "TODO"       [2013-12-25 Wed 16:54] \\
      今晚吃完饭回来跟这个问题
    - Note taken on [2013-12-25 Wed 16:53]
 <2013-12-25 Wed> adnrdoi的bug list
+
+
+
+
+
+** TODO MPQ的宏控制，控件部分
+
+** STARTED SDL显示部分
+   SCHEDULED: <2013-12-30 Mon>
+
+
+** 这周测试输出游戏的时间
+   SCHEDULED: <2013-12-30 Mon>
+
+   TE200 30号 
+   TE100 31号
+   理想 和 星海 3号
+
+
+
+   
+** gtk的学习
+
+** 规范android界面的输出步骤
