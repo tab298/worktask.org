@@ -14,6 +14,31 @@
  | game  | 操控     | 加速度   |   |
  | app   | dlna     | downGo   |   |
  | 流的模式 | 推送       |          |   |
-  
- 
- 
+
+
+
+* 网络资料
+** NanoHTTPD开源地址：http://elonen.iki.fi/code/nanohttpd/
+** DLNA工具包采用的是.cling  ：http://4thline.org/projects/cling
+
+*** 暴露服务AndroidUpnpService，且绑定服务；
+
+*** 构建本地媒体服务器，实现Service（PS:采用cling，DMS只需要实现ContentDirectoryService即可）
+
+*** 把本地的媒体文件，全部构建进Web服务器；
+
+*** 实现一些必要的监听，如设备发现等等；
+
+** 小总结dlna
+1.dlna 数字媒体和内容共享的一个规范。
+2.产品类型：
+
+- DMS(digital Media Server) 多媒体获取，录制，存储作为源头的能力。
+- DMP(digital media player) 从dms提供的媒体仲播放
+_ DMC (digital media controller)控制动作。
+
+3. dlna 传输层定义
+- 中界层，Ethernet(803.3u) wifi(802.11 a/b/g).各个设备之间采用upnp标准。 rtp传输协议可采用。
+4.功能组件
+- 网络互联，网络协议，媒体传输，设备发现，媒体格式。
+

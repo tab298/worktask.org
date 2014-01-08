@@ -1,0 +1,10 @@
+* opengl简介
+** 本节目标
+*** 了解opengl的功能
+    [[file:什么是opengl.org
+]]*** 了解不同程度的渲染复杂性
+
+*** 理解opengl程序的基本结构
+*** 了解opengl函数的语法
+*** 了解opengl渲染管线的操作序列
+*** 了解opengl程序中实现动画
