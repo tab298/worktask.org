@@ -12,6 +12,7 @@
  | vedio | sound    | 视频资源 |   |
  |       | 操控     |          |   |
  | game  | 操控     | 加速度   |   |
+<<<<<<< Updated upstream
  | app   | dlna     | downGo   |   |
  | 流的模式 | 推送       |          |   |
 
@@ -35,10 +36,27 @@
 
 - DMS(digital Media Server) 多媒体获取，录制，存储作为源头的能力。
 - DMP(digital media player) 从dms提供的媒体仲播放
-_ DMC (digital media controller)控制动作。
+- DMC (digital media controller)控制动作。
 
 3. dlna 传输层定义
 - 中界层，Ethernet(803.3u) wifi(802.11 a/b/g).各个设备之间采用upnp标准。 rtp传输协议可采用。
 4.功能组件
 - 网络互联，网络协议，媒体传输，设备发现，媒体格式。
+
+=======
+ |-------+----------+----------+---|
+
+
+
+ | app      | dlna | downGo |   |
+ |----------+------+--------+---|
+ | 流的模式 | 推送 |        |   |
+ |          |      |        |   |
+
+
+要点：
+  入--->>http--->>出
+  
+ 
+ 
 
